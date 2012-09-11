@@ -1,0 +1,10 @@
+d:war/
+d:data
+a:data/LD48Laser.wav
+i:data/ship.png
+a:data/LD48BGM.wav
+i:data/bar.png
+i:data/asplode-big.png
+i:data/asplode-sm.png
+i:data/enemy.png
+i:data/shot.png
