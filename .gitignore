@@ -4,3 +4,17 @@
 *.jar
 *.war
 *.ear
+
+bin
+gen
+classes
+deploy
+
+# libgdx libs #
+!gdx.jar
+!gdx-backend-android.jar
+!gdx-backend-lwjgl.jar
+!gdx-backend-lwjgl-natives.jar
+!gdx-natives.jar
+!gdx-backend-gwt.jar
+!gwt-servlet.jar
